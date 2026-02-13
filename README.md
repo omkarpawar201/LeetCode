@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/omkarpawar201/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/omkarpawar201/LeetCode/tree/master/0020-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omkarpawar201/LeetCode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/omkarpawar201/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
